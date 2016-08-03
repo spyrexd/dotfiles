@@ -49,3 +49,4 @@ complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes Syste
 
 #add rbenv
 eval "$(rbenv init -)"
+source ~/.rbenv_include
